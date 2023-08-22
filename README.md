@@ -1,2 +1,2 @@
 # LinkedList-implementaion
-Implemented a LinkedList and performing basic operations
+Implemented a LinkedList in Java and performing basic operations
